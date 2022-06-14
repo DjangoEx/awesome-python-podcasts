@@ -17,7 +17,7 @@ Talk Python to Me is a weekly podcast hosted by developer and entrepreneur Micha
 #### Teaching Python
 A podcast by Kelly Paredes and Sean Tibor about their adventures teaching middle school computer science, problem-solving, handling failure, frustration, and victory through the lens of the Python programming language. Kelly Paredes has taught all over the world and specializes in curriculum design and development. She currently teaches sixth and seventh-grade computer science at Pine Crest School in Fort Lauderdale, Florida. This is her fourth year using Python. Sean Tibor has worked in marketing and technical management roles selling toothpaste and toothbrushes, designing chemical inventory and tv media databases, enrolling online nursing students, and founding a digital marketing agency. This is his fourth year teaching Python to seventh and eighth-grade students at Pine Crest School in Fort Lauderdale, Florida.
 
-[Google podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cudGVhY2hpbmdweXRob24uZm0vcnNz?sa=X&ved=0CBsQ27cFahcKEwj48Pjk3dz3AhUAAAAAHQAAAAAQLA) | [Apple podcast](https://podcasts.apple.com/us/podcast/teaching-python/id1445806053) | [Spotify](https://open.spotify.com/show/3dcJgPzmDn6JXn1eoZvnjH)
+[Google podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cudGVhY2hpbmdweXRob24uZm0vcnNz?sa=X&ved=0CBsQ27cFahcKEwj48Pjk3dz3AhUAAAAAHQAAAAAQLA) | [Apple podcast](https://podcasts.apple.com/us/podcast/teaching-python/id1445806053) | [Spotify](https://open.spotify.com/show/3dcJgPzmDn6JXn1eoZvnjH) | [CastBox](https://castbox.fm/channel/Teaching-Python-id2771222)
 
 #### The Python Podcast.__init__
 The weekly podcast about the Python programming language, its ecosystem, and its community. Tune in for engaging, educational, and technical discussions about the broad range of industries, individuals, and applications that rely on Python.
@@ -32,4 +32,4 @@ Topics include automated testing, testing strategy, software engineering practic
 #### Python Bytes
 Python Bytes is a weekly podcast hosted by Michael Kennedy and Brian Okken. The show is a short discussion on the headlines and noteworthy news in the Python, developer, and data science space.
 
-[Google podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9weXRob25ieXRlcy5mbS9lcGlzb2Rlcy9yc3M?sa=X&ved=0CB0Q27cFahcKEwj48Pjk3dz3AhUAAAAAHQAAAAAQLA) | [Apple podcasts](https://podcasts.apple.com/us/podcast/python-bytes/id1173690032)
+[Google podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9weXRob25ieXRlcy5mbS9lcGlzb2Rlcy9yc3M?sa=X&ved=0CB0Q27cFahcKEwj48Pjk3dz3AhUAAAAAHQAAAAAQLA) | [Apple podcasts](https://podcasts.apple.com/us/podcast/python-bytes/id1173690032) | [CastBox](https://castbox.fm/channel/Python-Bytes-id410810)
