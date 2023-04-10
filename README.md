@@ -1,4 +1,4 @@
-# Awesome Python News
+# Awesome Python Podcasts
 
 ## International Conferences
 
