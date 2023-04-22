@@ -12,7 +12,7 @@ A weekly Python podcast hosted by Christopher Bailey with interviews, coding tip
 [![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/feed/id1501905538)
 [![Google Podcasts](https://img.shields.io/badge/Google_Podcasts-4285F4?style=for-the-badge&logo=google-podcasts&logoColor=white)](https://podcasts.google.com/feed/aHR0cHM6Ly9yZWFscHl0aG9uLmNvbS9wb2RjYXN0cy9ycHAvZmVlZA?sa=X&ved=0CAMQ4aUDahcKEwj48Pjk3dz3AhUAAAAAHQAAAAAQNQ)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/41Av6Rq81LfOT3Volz7W9D)
-[![Castbox](path-to-castbox)]
+[![Castbox](https://img.shields.io/badge/Castbox-F55B23?logo=castbox&logoColor=fff&style=for-the-badge)](https://castbox.fm/vic/1501905538)
 
 ### Talk Python To Me
 Talk Python to Me is a weekly podcast hosted by developer and entrepreneur Michael Kennedy. We dive deep into the popular packages and software developers, data scientists, and incredible hobbyists doing amazing things with Python. If you're new to Python, you'll quickly learn the ins and outs of the community by hearing from the leaders. And if you've been Pythoning for years, you'll learn about your favorite packages and the hot new ones coming out of open source.
