@@ -15,9 +15,14 @@ A weekly Python podcast hosted by Christopher Bailey with interviews, coding tip
 [![Castbox](https://img.shields.io/badge/Castbox-F55B23?logo=castbox&logoColor=fff&style=for-the-badge)](https://castbox.fm/vic/1501905538)
 
 ### Talk Python To Me
+
+![The Real Python Cover](https://github.com/lnxpy/awesome-python-podcasts/blob/main/covers/podcast/talk-python-to-me.png?raw=true)
+
 Talk Python to Me is a weekly podcast hosted by developer and entrepreneur Michael Kennedy. We dive deep into the popular packages and software developers, data scientists, and incredible hobbyists doing amazing things with Python. If you're new to Python, you'll quickly learn the ins and outs of the community by hearing from the leaders. And if you've been Pythoning for years, you'll learn about your favorite packages and the hot new ones coming out of open source.
 
-[Google podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly90YWxrcHl0aG9uLmZtL2VwaXNvZGVzL3Jzcw?sa=X&ved=0CBoQ27cFahcKEwj48Pjk3dz3AhUAAAAAHQAAAAAQLA) | [Apple podcasts](https://podcasts.apple.com/us/podcast/talk-python-to-me/id979020229) | [CastBox](https://castbox.fm/channel/Talk-Python-To-Me-id2315)
+[![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/talk-python-to-me/id979020229)
+[![Google Podcasts](https://img.shields.io/badge/Google_Podcasts-4285F4?style=for-the-badge&logo=google-podcasts&logoColor=white)](https://podcasts.google.com/feed/aHR0cHM6Ly90YWxrcHl0aG9uLmZtL2VwaXNvZGVzL3Jzcw?sa=X&ved=0CBoQ27cFahcKEwj48Pjk3dz3AhUAAAAAHQAAAAAQLA)
+[![Castbox](https://img.shields.io/badge/Castbox-F55B23?logo=castbox&logoColor=fff&style=for-the-badge)](https://castbox.fm/channel/Talk-Python-To-Me-id2315)
 
 ### Teaching Python
 A podcast by Kelly Paredes and Sean Tibor about their adventures teaching middle school computer science, problem-solving, handling failure, frustration, and victory through the lens of the Python programming language. Kelly Paredes has taught all over the world and specializes in curriculum design and development. She currently teaches sixth and seventh-grade computer science at Pine Crest School in Fort Lauderdale, Florida. This is her fourth year using Python. Sean Tibor has worked in marketing and technical management roles selling toothpaste and toothbrushes, designing chemical inventory and tv media databases, enrolling online nursing students, and founding a digital marketing agency. This is his fourth year teaching Python to seventh and eighth-grade students at Pine Crest School in Fort Lauderdale, Florida.
