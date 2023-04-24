@@ -16,7 +16,7 @@ A weekly Python podcast hosted by Christopher Bailey with interviews, coding tip
 
 ### Talk Python To Me
 
-![The Real Python Cover](https://github.com/lnxpy/awesome-python-podcasts/blob/main/covers/podcast/talk-python-to-me.png?raw=true)
+![Talk Python To Me Cover](https://github.com/lnxpy/awesome-python-podcasts/blob/main/covers/podcast/talk-python-to-me.png?raw=true)
 
 Talk Python to Me is a weekly podcast hosted by developer and entrepreneur Michael Kennedy. We dive deep into the popular packages and software developers, data scientists, and incredible hobbyists doing amazing things with Python. If you're new to Python, you'll quickly learn the ins and outs of the community by hearing from the leaders. And if you've been Pythoning for years, you'll learn about your favorite packages and the hot new ones coming out of open source.
 
@@ -25,9 +25,15 @@ Talk Python to Me is a weekly podcast hosted by developer and entrepreneur Micha
 [![Castbox](https://img.shields.io/badge/Castbox-F55B23?logo=castbox&logoColor=fff&style=for-the-badge)](https://castbox.fm/channel/Talk-Python-To-Me-id2315)
 
 ### Teaching Python
+
+![Teaching Python Cover](https://github.com/lnxpy/awesome-python-podcasts/blob/main/covers/podcast/teaching-python.png?raw=true)
+
 A podcast by Kelly Paredes and Sean Tibor about their adventures teaching middle school computer science, problem-solving, handling failure, frustration, and victory through the lens of the Python programming language. Kelly Paredes has taught all over the world and specializes in curriculum design and development. She currently teaches sixth and seventh-grade computer science at Pine Crest School in Fort Lauderdale, Florida. This is her fourth year using Python. Sean Tibor has worked in marketing and technical management roles selling toothpaste and toothbrushes, designing chemical inventory and tv media databases, enrolling online nursing students, and founding a digital marketing agency. This is his fourth year teaching Python to seventh and eighth-grade students at Pine Crest School in Fort Lauderdale, Florida.
 
-[Google podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cudGVhY2hpbmdweXRob24uZm0vcnNz?sa=X&ved=0CBsQ27cFahcKEwj48Pjk3dz3AhUAAAAAHQAAAAAQLA) | [Apple podcast](https://podcasts.apple.com/us/podcast/teaching-python/id1445806053) | [Spotify](https://open.spotify.com/show/3dcJgPzmDn6JXn1eoZvnjH) | [CastBox](https://castbox.fm/channel/Teaching-Python-id2771222)
+[![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/teaching-python/id1445806053)
+[![Google Podcasts](https://img.shields.io/badge/Google_Podcasts-4285F4?style=for-the-badge&logo=google-podcasts&logoColor=white)](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cudGVhY2hpbmdweXRob24uZm0vcnNz?sa=X&ved=0CBsQ27cFahcKEwj48Pjk3dz3AhUAAAAAHQAAAAAQLA)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/3dcJgPzmDn6JXn1eoZvnjH)
+[![Castbox](https://img.shields.io/badge/Castbox-F55B23?logo=castbox&logoColor=fff&style=for-the-badge)](https://castbox.fm/channel/Teaching-Python-id2771222)
 
 ### The Python Podcast.__init__
 The weekly podcast about the Python programming language, its ecosystem, and its community. Tune in for engaging, educational, and technical discussions about the broad range of industries, individuals, and applications that rely on Python.
