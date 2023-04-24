@@ -36,9 +36,15 @@ A podcast by Kelly Paredes and Sean Tibor about their adventures teaching middle
 [![Castbox](https://img.shields.io/badge/Castbox-F55B23?logo=castbox&logoColor=fff&style=for-the-badge)](https://castbox.fm/channel/Teaching-Python-id2771222)
 
 ### The Python Podcast.__init__
+
+![The Python Podcast.init Cover](https://raw.githubusercontent.com/lnxpy/awesome-python-podcasts/main/covers/podcast/the-python-podcast-init.png)
+
 The weekly podcast about the Python programming language, its ecosystem, and its community. Tune in for engaging, educational, and technical discussions about the broad range of industries, individuals, and applications that rely on Python.
 
-[Google podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cucHl0aG9ucG9kY2FzdC5jb20vZmVlZC9mdWxsLw?sa=X&ved=0CB4Q27cFahcKEwj48Pjk3dz3AhUAAAAAHQAAAAAQLA) | [Apple podcasts](https://podcasts.apple.com/us/podcast/the-python-podcast-init/id981834425) | [CastBox](https://castbox.fm/channel/id2203387) | [Spotify](https://open.spotify.com/show/5LblXHyyIfoGOL8s3ZcCxe)
+[![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/the-python-podcast-init/id981834425)
+[![Google Podcasts](https://img.shields.io/badge/Google_Podcasts-4285F4?style=for-the-badge&logo=google-podcasts&logoColor=white)](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cucHl0aG9ucG9kY2FzdC5jb20vZmVlZC9mdWxsLw?sa=X&ved=0CB4Q27cFahcKEwj48Pjk3dz3AhUAAAAAHQAAAAAQLA)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/5LblXHyyIfoGOL8s3ZcCxe)
+[![Castbox](https://img.shields.io/badge/Castbox-F55B23?logo=castbox&logoColor=fff&style=for-the-badge)](https://castbox.fm/channel/id2203387)
 
 ### Test & Code in Python
 Topics include automated testing, testing strategy, software engineering practices, packaging, Python, pytest, data science, TDD, continuous integration, and software methodologies. Also anything I think helps make the daily life of a software developer more fun and rewarding. Hosted by Brian Okken.
