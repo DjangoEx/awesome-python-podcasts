@@ -66,10 +66,3 @@ Python Bytes is a weekly podcast hosted by Michael Kennedy and Brian Okken. The 
 [![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/python-bytes/id1173690032)
 [![Google Podcasts](https://img.shields.io/badge/Google_Podcasts-4285F4?style=for-the-badge&logo=google-podcasts&logoColor=white)](https://podcasts.google.com/feed/aHR0cHM6Ly9weXRob25ieXRlcy5mbS9lcGlzb2Rlcy9yc3M?sa=X&ved=0CB0Q27cFahcKEwj48Pjk3dz3AhUAAAAAHQAAAAAQLA)
 [![Castbox](https://img.shields.io/badge/Castbox-F55B23?logo=castbox&logoColor=fff&style=for-the-badge)](https://castbox.fm/channel/Python-Bytes-id410810)
-
-### Podcast._ _ init _ _
-Tobias Macey, the host of this podcast, brings us weekly stories from the Python community. This show provides information and insights from projects, platforms, and practices. These will be useful for engineers, business leaders, and data scientists.
-
-The interviews focus on personal experiences, challenges, and motivations. The stories are engaging and very relatable. Each episode has a detailed description and a list of useful links.
-
-[Google podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cucG9kY2FzdGluaXQuY29tL2ZlZWQvbXAzLw%3D%3D) | [Apple podcasts](https://podcasts.apple.com/us/podcast/the-python-podcast-init/id981834425?at=&ct=&ign-mpt=uo%3D6&mt=2) | [CastBox](https://castbox.fm/channel/id406827)
